@@ -13,7 +13,7 @@ Redis Analyzer is an experimental tool designed to analyze and visualize Redis d
 To install Redis Analyzer, clone the repository and install the dependencies:
 
 ```bash
-git clone https://github.com/Tessaract-io/redis-analyzer.git
+git clone https://github.com/Tessaract-io/redis-key-analyzer.git
 cd redis-analyzer
 pip install -r requirements.txt
 ```
