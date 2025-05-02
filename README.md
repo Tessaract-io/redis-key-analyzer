@@ -29,10 +29,10 @@ To start the Redis Analyzer, use another terminal to run the following command:
 
 ```bash
 # For database 0, forwarded service is at 127.0.0.1 port 6380
-pthon analyze.py --host 127.0.0.1 --port 6380 --db 0 --password ""
+python analyze.py --host 127.0.0.1 --port 6380 --db 0 --password ""
 
 # For database 1
-pthon analyze.py --host 127.0.0.1 --port 6380 --db 1 --password ""
+python analyze.py --host 127.0.0.1 --port 6380 --db 1 --password ""
 ```
 
 ## Contributing
